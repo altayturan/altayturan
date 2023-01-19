@@ -31,7 +31,7 @@ While working on UAV I wondered about other software fields like Mobile and Web 
 
 - **Languages**:
     
-    ![C#](https://img.shields.io/badge/C#%20-%232370ED.svg?style=for-the-badge&logo=c#&logoColor=white)
+    ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
@@ -42,7 +42,7 @@ While working on UAV I wondered about other software fields like Mobile and Web 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Unity](https://img.shields.io/badge/Unity-636363?style=for-the-badge&logo=unity&logoColor=white)
-    ![Photoshop](https://img.shields.io/badge/Photoshop-0064AE?style=for-the-badge&logo=photoshop&logoColor=white)
+    ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 <br>
 <br>
