@@ -50,13 +50,8 @@ While working on UAV I wondered about other software fields like Mobile and Web 
 </div>
 
 <br>
-
-
 -----
-
 <br>
-
-
 ## <b> Contact </b><img src="./assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
