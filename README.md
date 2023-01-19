@@ -8,9 +8,6 @@
 
 <br>
 
-
-
-	
 ## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About Me**
 
 <picture> <img align="right" src="./assets/mdImages/Right_Side.gif" width = 250px></picture>
@@ -35,19 +32,13 @@ While working on UAV I wondered about other software fields like Mobile and Web 
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
-
-
  - **Softwares and Tools**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Unity](https://img.shields.io/badge/Unity-636363?style=for-the-badge&logo=unity&logoColor=white)
     ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-
 <br>
-<br>
-
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
@@ -59,20 +50,16 @@ While working on UAV I wondered about other software fields like Mobile and Web 
 </div>
 
 <br>
-<br>
+
 
 -----
 
 <br>
-<br>
+
 
 ## <b> Contact </b><img src="./assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
-
-
-
-
 <a href="https://linkedin.com/in/altayturan" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:altayturan-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
