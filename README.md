@@ -4,8 +4,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Jr.+Game+Developer;Computer+Engineerin+Student;Founder+Of+ULUDOTT" alt="Typing SVG" /></a>
 </p>
-
-
 <br>
 
 ## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About Me**
@@ -61,13 +59,15 @@ While working on UAV I wondered about other software fields like Mobile and Web 
 ## <b> Contact </b><img src="./assets/mdImages/handshake.gif" width ="80">
 
 <br>
-
 <div align='left'>
-<a href="https://linkedin.com/in/altayturan" target="_blank">
+
+  <a href="https://linkedin.com/in/altayturan" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:altayturan-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-<br>
-<a href="mailto:altayturaan@gmail.com" target="_blank">
+
+  <br>
+
+  <a href="mailto:altayturaan@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail: altayturaan-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </div>
