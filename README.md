@@ -17,11 +17,8 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+My software adventure started when I graduated from highschool. First software language I learned was Python. After small projects I joined to the UAV Team named Ulucopter and developed a UAV. 
+While working on UAV I wondered about other software fields like Mobile and Web programming. After these I met with Game Development. I started to develop games with friends and I loved it. Right now I'm fully focused on this field. For that matter I founded Uludağ University Digital Game Design Student Society with my friends.
 
 <br><br>
 
