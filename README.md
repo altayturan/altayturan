@@ -70,22 +70,22 @@ While working on UAV I wondered about other software fields like Mobile and Web 
 <br>
 <div align='left'>
 
-<ul>
 
-<li>
+
+
 <a href="[https://linkedin.com/in/0xabdulkhalid](https://www.linkedin.com/in/altayturan/)" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-</li>
+
 
 
 <br>
 
-<li>
+
 <a href="mailto:altayturaan@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail: altayturaan-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
-</li>
+
 	
 </ul>
 </div>
