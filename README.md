@@ -41,7 +41,7 @@ While working on UAV I wondered about other software fields like Mobile and Web 
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Unity](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=unity&logoColor=white)
+    ![Unity](https://img.shields.io/badge/Unity-636363?style=for-the-badge&logo=unity&logoColor=white)
     ![Photoshop](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=photoshop&logoColor=white)
 
 <br>
