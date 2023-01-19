@@ -11,7 +11,7 @@
 
 
 	
-## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About Me**
 
 <picture> <img align="right" src="./assets/mdImages/Right_Side.gif" width = 250px></picture>
 
