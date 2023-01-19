@@ -17,7 +17,7 @@
 
 <br>
 
-My software adventure started when I graduated from highschool. First software language I learned was Python. After small projects I joined to the UAV Team named Ulucopter and developed a UAV. 
+My software adventure started when I graduated from highschool. First software language I learned was Python. After small projects I joined to the UAV Team named Ulucopter and developed an UAV. 
 While working on UAV I wondered about other software fields like Mobile and Web programming. After these I met with Game Development. I started to develop games with friends and I loved it. Right now I'm fully focused on this field. For that matter I founded Uludağ University Digital Game Design Student Society with my friends.
 
 <br><br>
