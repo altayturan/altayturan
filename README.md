@@ -66,7 +66,7 @@ While working on UAV I wondered about other software fields like Mobile and Web 
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
+## <b> Contact </b><img src="./assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
