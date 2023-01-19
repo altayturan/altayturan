@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Jr.+Game+Developer;Computer+Engineerin+Student;Founder+Of+ULUDOTT" alt="Typing SVG" /></a>
 </p>
-<br>
 
 ## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About Me**
 
@@ -15,9 +14,9 @@
 My software adventure started when I graduated from highschool. First software language I learned was Python. After small projects I joined to the UAV Team named Ulucopter and developed an UAV. 
 While working on UAV I wondered about other software fields like Mobile and Web programming. After these I met with Game Development. I started to develop games with friends and I loved it. Right now I'm fully focused on this field. For that matter I founded Uludağ University Digital Game Design Student Society with my friends.
 
-<br><br>
+<br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
@@ -30,7 +29,8 @@ While working on UAV I wondered about other software fields like Mobile and Web 
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
- - **Softwares and Tools**:
+  
+  - **Softwares and Tools**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
