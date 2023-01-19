@@ -35,13 +35,15 @@ While working on UAV I wondered about other software fields like Mobile and Web 
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
+-
+-
 - **Softwares and Tools**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Unity](https://img.shields.io/badge/Unity-636363?style=for-the-badge&logo=unity&logoColor=white)
     ![Photoshop](https://img.shields.io/badge/Photoshop-0064AE?style=for-the-badge&logo=photoshop&logoColor=white)
-<\p>
+
 <br>
 <br>
 -----
