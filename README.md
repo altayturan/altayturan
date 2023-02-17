@@ -11,8 +11,24 @@
 
 <br>
 
-My software adventure started when I graduated from highschool. First software language I learned was Python. After small projects I joined to the UAV Team named Ulucopter and developed an UAV. 
-While working on UAV I wondered about other software fields like Mobile and Web programming. After these I met with Game Development. I started to develop games with friends and I loved it. Right now I'm fully focused on this field. For that matter I founded Uludağ University Digital Game Design Student Society with my friends.
+My programming adventure started when I graduated from high school. <br><br>
+        I researched some programming languages and decided to learn Python. 
+        I programmed some small projects and learned the basics of programming and Python. <br><br>
+        Then I started to university. <br>
+        There were lots of student societies at Uludag University and they were working on amazing projects. 
+        There were lots of options but I was looking for some programming projects.<br>
+        Then I found "ULUCOPTER". 
+        They were working on UAV (Unmanned Aerial Vehicle) and they were looking for a programmer. 
+        After a little interview, they accepted me to the team. 
+        While working on UAV, I improved my Python skills. <br><br>
+        Then I started to wonder about other fields of programming. <br>
+        I built some websites, mobile apps and finally met with Game Development. <br>
+        I found a game jam and gathered a team which has 3 members. 
+        None of us knew Unity and C# but we had 6 days to learn. 
+        Unfortunately, we couldn't finish the game but we learned a lot. 
+        Then I started to develop games and loved it. 
+        Right now I'm fully focused on this field. 
+        For that matter, I founded Uludağ University Digital Game Design Student Society with my friends.
 
 <br>
 
